@@ -124,14 +124,7 @@ def callback(thread):
 
 
 def send_msg(msg, url=Seatalk_API, at_all=False, mention_list=None):
-    """
-    向seatalk群机器人发送消息
-    :param url:
-    :param msg:
-    :param at_all:
-    :param mention_list:
-    :return:
-    """
+
     if not isinstance(mention_list, list):
         mention_list = []
     headers = {'content-type': 'application/json'}
