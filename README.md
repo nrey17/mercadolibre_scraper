@@ -27,4 +27,4 @@ To begin using the Mercadolibre Scraper, follow these steps:
 
 Contributions to this repository are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, feel free to submit pull requests or raise issues on the repository's GitHub page.
 
-Thank you for choosing the Mercadolibre Scraper repository. We hope you find it valuable and insightful for your data scraping needs!
+Thank you for choosing the Mercadolibre Scraper repository. I hope you find it valuable and insightful for your data scraping needs!
